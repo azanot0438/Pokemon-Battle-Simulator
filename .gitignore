@@ -1,0 +1,9 @@
+# A folder (replace with your folder's name)
+materials-pygame-a-primer/
+
+# Specific .py files (replace with your file names)
+pygame_practice.py
+pokemon_battle_sim.py
+
+# The recording file
+*.jsonl.gz
