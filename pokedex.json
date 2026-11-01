@@ -1,0 +1,21 @@
+{
+    "Charizard": {
+        "types":["Fire", "Flying"],
+        "base_stats":{"hp":78, "atk":100, "def":80}
+    },
+
+    "Blastoise": {
+        "types":["Water"],
+        "base_stats":{"hp":79, "atk":83, "def":105}
+    },
+
+    "Venusaur": {
+        "types":["Grass", "Poison"],
+        "base_stats":{"hp":80, "atk":90, "def":90}
+    },
+
+    "Pikachu": {
+        "types":["Electric"],
+        "base_stats":{"hp":35, "atk":55, "def":45}
+    }
+}
